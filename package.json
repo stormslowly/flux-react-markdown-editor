@@ -9,7 +9,8 @@
   "author": "pshu",
   "license": "MIT",
   "devDependencies": {
-    "flux": "^2.0.1",
+    "eslint-plugin-react": "^3.3.0",
+    "flux": "^2.1.1",
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.0",
     "gulp-concat": "^2.2.0",
